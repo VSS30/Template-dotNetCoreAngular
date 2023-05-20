@@ -1,0 +1,12 @@
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\bin\Debug\net5.0\Template.Domain.deps.json
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\bin\Debug\net5.0\Template.Domain.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\bin\Debug\net5.0\ref\Template.Domain.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\bin\Debug\net5.0\Template.Domain.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.AssemblyInfoInputs.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.AssemblyInfo.cs
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\ref\Template.Domain.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Domain\obj\Debug\net5.0\Template.Domain.csproj.AssemblyReference.cache

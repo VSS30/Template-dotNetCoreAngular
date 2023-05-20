@@ -1,0 +1,15 @@
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\bin\Debug\net5.0\Template.Auth.deps.json
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\bin\Debug\net5.0\Template.Auth.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\bin\Debug\net5.0\ref\Template.Auth.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\bin\Debug\net5.0\Template.Auth.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.AssemblyInfoInputs.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.AssemblyInfo.cs
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\ref\Template.Auth.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.csproj.AssemblyReference.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\bin\Debug\net5.0\Template.Domain.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\bin\Debug\net5.0\Template.Domain.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Auth\obj\Debug\net5.0\Template.Auth.csproj.CopyComplete

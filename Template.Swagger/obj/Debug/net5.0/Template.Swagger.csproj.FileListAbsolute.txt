@@ -1,0 +1,12 @@
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\bin\Debug\net5.0\Template.Swagger.deps.json
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\bin\Debug\net5.0\Template.Swagger.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\bin\Debug\net5.0\ref\Template.Swagger.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\bin\Debug\net5.0\Template.Swagger.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.AssemblyInfoInputs.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.AssemblyInfo.cs
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\ref\Template.Swagger.dll
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.pdb
+C:\Users\Vinicius\VSSHJBB\Template-DotNetCore\Template.Swagger\obj\Debug\net5.0\Template.Swagger.csproj.AssemblyReference.cache
